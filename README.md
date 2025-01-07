@@ -9,7 +9,7 @@ product-service: A Client that is able to receive the request
 
 
 
-I will bring future updates for a more complex network, but the necessary configuration is all ready.
+(Maybe) I will bring future updates for a more complex network, but the necessary configuration is all ready.
 Make use of
 
 
