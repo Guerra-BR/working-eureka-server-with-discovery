@@ -13,4 +13,4 @@ I will bring future updates for a more complex network, but the necessary config
 Make use of
 
 
-Ass: JavaFox
+~JavaFox
